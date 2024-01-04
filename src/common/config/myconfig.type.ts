@@ -11,7 +11,6 @@ export interface MyConfigType {
     JWT_REFRESH_SECRET: string;
     ACCESS_TOKEN_EXPIRE_SEC: number;
     REFRESH_TOKEN_EXPIRE_SEC: number;
-
     EMAIL_TOKEN_EXPIRE_SEC: number;
 }
   
